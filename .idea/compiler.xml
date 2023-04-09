@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="_01_complexity" />
+        <module name="_04_stack" />
+        <module name="_05_queue" />
+        <module name="_06_binarySearchTree" />
+        <module name="_06_binarySearchTree2" />
+        <module name="_10_map" />
+        <module name="_02_dynamicArray" />
+        <module name="_08_RDTree" />
+        <module name="_07_AVL" />
+        <module name="_08_RBTree_02" />
+        <module name="_00_letcode" />
+        <module name="_11_hashtable" />
+        <module name="_03_linkedList" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="_06_binarySearchTree02" target="1.8" />
+      <module name="_08_RBTree" target="1.8" />
+      <module name="_09_set" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
