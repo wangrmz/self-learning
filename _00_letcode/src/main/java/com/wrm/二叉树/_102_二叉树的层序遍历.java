@@ -4,10 +4,6 @@ package com.wrm.二叉树;
  * @create 2023-30-16:19
  **/
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Queue;
 
 /**
  * 题目地址：https://leetcode.cn/problems/binary-tree-level-order-traversal/
